@@ -10,7 +10,7 @@ __3.__ __Turn off your phone while you read this__
 
 #### All about me
 ![](https://www.fool.com.au/wp-content/uploads/2017/07/bank.jpg)
-__Name__ : Nuttawoot Ratanaluerungrog
+> __Name__ : Nuttawoot Ratanaluerungrog
 __Nickname__ : Bank
 __Age__ : 20 years
 __Gender__: Male
